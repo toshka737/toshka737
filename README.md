@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 Связь со мной: https://t.me/Antonina_da38 или toshaiv@mail.ru
+📫 Связь со мной: https://t.me/Antonina_da38
