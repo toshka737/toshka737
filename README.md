@@ -5,7 +5,7 @@
 Занимаюсь аналитикой с помощью Excel (сводные таблицы, дашборд) и оформляю итоги анализа в PowerPoint. Хочу перейти на профессиональный уровень анализа данных - SQL, Python, инструменты BI.<br>
 Прошла обучение в [Яндекс.Практикум](https://practicum.yandex.ru/profile/data-analyst/), курс Аналитик данных. <br>
 Открыта к предложениям о работе, хочу применять полученные знания на реальных задачах (Pandas, PostgreSQL, А/В-тестирование, проверка гипотез). <br>
-Практикуюсь по SQL на www.sql-ex.ru и www.stepik.org
+Повышаю свой уровень знаний SQL на www.sql-ex.ru и www.stepik.org
 
 <!--
 **toshka737/toshka737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
